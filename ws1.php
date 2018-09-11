@@ -13,13 +13,6 @@ Text: <br>
 <textarea name="text" rows="10" cols="40"></textarea>
 <input type="submit">
 </form>
-
-<?php 
-
-echo $text;
-
-?>
-
 </body>
 </html>
 
