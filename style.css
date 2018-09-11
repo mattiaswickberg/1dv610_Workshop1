@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+form {
+  display: inline-block;
+  margin-top: 200px;
+}
+input {
+  margin: 10px;
+}
